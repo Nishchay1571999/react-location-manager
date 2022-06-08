@@ -4,8 +4,13 @@
   "private": true,
   "dependencies": {
     "axios": "^0.18.0",
+    "dompurify": "^2.3.8",
+    "draft-convert": "^2.1.12",
+    "draft-js": "^0.11.7",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
+    "react-draft-wysiwyg": "^1.14.7",
+    "react-router-dom": "^6.3.0",
     "react-scripts": "2.1.8"
   },
   "scripts": {
@@ -23,5 +28,8 @@
     "not ie <= 11",
     "not op_mini all"
   ],
-  "proxy": "http://localhost:5000"
+  "proxy": "http://localhost:5000",
+  "devDependencies": {
+    "json-loader": "^0.5.7"
+  }
 }
