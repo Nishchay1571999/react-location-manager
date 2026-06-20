@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "axios": "^0.18.0",
+    "axios": "^0.33.0",
     "dompurify": "^2.3.8",
     "draft-convert": "^2.1.12",
     "draft-js": "^0.11.7",
